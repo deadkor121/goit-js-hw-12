@@ -1,7 +1,7 @@
 {
-  "name": "js-hw-12",
+  "name": "goit-js-hw-12",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,7 +14,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.6.5",
     "izitoast": "^1.4.0",
     "simplelightbox": "^2.14.2",
     "vite-plugin-full-reload": "^1.0.5",
